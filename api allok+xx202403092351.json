@@ -13,15 +13,6 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "live2=1",
-            "type": 0,
-            "url": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709065962483/livetest2.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "live2",
             "type": 0,
             "url": "./lives/livetest2.txt",
@@ -79,10 +70,7 @@
 			"boot": false,
 			"timeout": 5,
 			"url": "https://gh.con.sh/https://raw.githubusercontent.com/YaoChuCai/YaoChuCai.github.io/main/dsj.txt"
-		},
-//https://github.com/SDM-IPTV-FREE/tv18--xxx
-//https://raw.githubusercontent.com/SDM-IPTV-FREE/tv18--xxx/playlist/sdm-ALLL%20TIJAM-.m3u
-// https://agit.ai/xzdx05/e9e99843773ce375/raw/branch/master/n.m3u",
+	},
         {
             "name": "JUNDIE",
             "type": 0,
@@ -96,30 +84,6 @@
             "ua": "okhttp/3.12.13",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "xxx1",
-            "type": 0,
-            "url": "./lives/sdm-ALLL TIJAM-.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "xxx2",
-            "type": 0,
-            "url": "./lives/fulll.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "xxx3",
-            "type": 0,
-            "url": "./lives/sdm.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "xxx4",
-            "type": 0,
-            "url": "./lives/sdm indo.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "电信网络",
